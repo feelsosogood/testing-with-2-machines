@@ -1,7 +1,7 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
-  "do_objectID": "5d6ddee0-aa4f-11e8-ae54-2bce4f2453b1",
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4086214B-9C44-4F7A-8079-5E02EC937AF5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,19 +14,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 411,
+    "width": 234,
+    "x": 554,
+    "y": 258
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -35,15 +28,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "4086214B-9C44-4F7A-8079-5E02EC937AF5"
+      "class": "shapeGroup",
+      "id": "F4C84834-EDDF-4FBC-8DC6-BF7428351FC6"
     },
     {
-      "class": "group",
-      "id": "3E1179D3-5433-45B6-B5C9-87247DCDEE29"
+      "class": "text",
+      "id": "43C29011-F862-4A3B-B8F9-221A3DD3A123"
     }
   ],
-  "name": "Page 1",
+  "name": "Group",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,10 +49,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }
