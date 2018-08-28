@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F0C9F8F1-F0A8-40AE-AEC7-8E347D31DC85",
+  "do_objectID": "F4C84834-EDDF-4FBC-8DC6-BF7428351FC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 237,
-    "width": 220,
-    "x": 925,
-    "y": 389
+    "constrainProportions": true,
+    "height": 234,
+    "width": 234,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,10 +31,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "1433874D-4863-42DC-918D-538D48A4B448"
+      "id": "644A5727-A971-4F87-BB8D-F61631284248"
     }
   ],
-  "name": "Rectangle 2",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,7 +53,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -65,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,7 +79,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
@@ -87,5 +87,5 @@
       }
     }
   },
-  "windingRule": 1
+  "windingRule": 0
 }

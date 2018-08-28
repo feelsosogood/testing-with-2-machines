@@ -9,39 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HelveticaNeue-Bold",
-              "size": 70
+              "size": 21
             }
           },
-          "kerning": 0,
+          "kerning": -0.300000011920929,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "baseWritingDirection": 0
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "from work\nare you getting it??"
+    "string": "from work machine"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0514A488-D0EB-4033-A0C4-E85CE4E5A86A",
+  "do_objectID": "813E60DF-840B-4959-9316-1B6A3ACF750A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3BC2C30A-E230-42D0-8609-8F1F9596DA89",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E3E15853-36C0-4993-AC35-D8AADAF787DB",
-    "height": 166,
-    "width": 642,
-    "x": 1759,
-    "y": 675
+    "height": 25,
+    "width": 189,
+    "x": 15,
+    "y": 386
   },
-  "glyphBounds": "{{0, 18}, {640, 147}}",
+  "glyphBounds": "{{0, 5}, {189, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "from home are you ge",
+  "name": "from work machine",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,34 +72,32 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "137AD264-9932-4356-9A38-6E5B11C47FC2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CE034832-F94B-4332-BE85-6F351D0EC659",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 70
+            "size": 21
           }
         },
-        "kerning": 0,
+        "kerning": -0.300000011920929,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "baseWritingDirection": 0
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },

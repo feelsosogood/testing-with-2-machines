@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F4C84834-EDDF-4FBC-8DC6-BF7428351FC6",
+  "do_objectID": "DABF3B52-2D41-4BBE-B2C7-789F821E93A1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 234,
     "width": 234,
-    "x": 554,
-    "y": 258
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "644A5727-A971-4F87-BB8D-F61631284248"
+      "id": "C97A221E-EA21-4289-AA97-711277F91A53"
     }
   ],
   "name": "Rectangle",
@@ -65,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.8862745098039215,
+          "green": 0.5647058823529411,
+          "red": 0.2901960784313725
         },
         "fillType": 0,
         "isEnabled": true,
@@ -88,13 +88,13 @@
           "aspectRatio": {
             "constant": 234,
             "enabled": 1,
-            "modelID": "constraint_67f3ce63-3403-49fd-8d8f-1bca1b7651b6",
+            "modelID": "constraint_4ea95611-0116-4dc4-bec2-22a2d0f95d9e",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 234
           },
           "automatic": 1,
-          "modelID": "viewConstraints_8882c715-2dc2-40f9-b55a-c9b54cdd984b",
+          "modelID": "viewConstraints_e5d41801-9eb4-41e4-ac99-db410b128b78",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1
