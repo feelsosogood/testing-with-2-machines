@@ -37,7 +37,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "43C29011-F862-4A3B-B8F9-221A3DD3A123",
+  "do_objectID": "813E60DF-840B-4959-9316-1B6A3ACF750A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,8 +53,8 @@
     "constrainProportions": false,
     "height": 25,
     "width": 189,
-    "x": 569,
-    "y": 644
+    "x": 15,
+    "y": 386
   },
   "glyphBounds": "{{0, 5}, {189, 16}}",
   "isFixedToViewport": false,
@@ -65,7 +65,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "from work machine",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
