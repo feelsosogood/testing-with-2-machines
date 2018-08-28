@@ -9,35 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "HelveticaNeue-Bold",
-              "size": 21
+              "size": 70
             }
           },
-          "kerning": -0.300000011920929,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "tighteningFactorForTruncation": 0.05
+            "baseWritingDirection": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "from work machine"
+    "string": "from home\nare you getting it??"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "43C29011-F862-4A3B-B8F9-221A3DD3A123",
+  "do_objectID": "6BE98897-62FE-4F45-A518-9FBE56088191",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 189,
-    "x": 569,
-    "y": 644
+    "height": 166,
+    "width": 642,
+    "x": 991,
+    "y": 675
   },
-  "glyphBounds": "{{0, 5}, {189, 16}}",
+  "glyphBounds": "{{0, 18}, {640, 147}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "from work machine",
+  "name": "from home are you ge",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,23 +81,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "HelveticaNeue-Bold",
-            "size": 21
+            "size": 70
           }
         },
-        "kerning": -0.300000011920929,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "tighteningFactorForTruncation": 0.05
+          "baseWritingDirection": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
