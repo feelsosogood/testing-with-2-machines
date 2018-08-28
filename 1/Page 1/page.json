@@ -41,6 +41,30 @@
     {
       "class": "text",
       "id": "43C29011-F862-4A3B-B8F9-221A3DD3A123"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0C9F8F1-F0A8-40AE-AEC7-8E347D31DC85"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E50B8A1-CBCB-4AA6-9A63-CCAF7440755F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F124067-7347-435B-AF70-E88B437C0F8E"
+    },
+    {
+      "class": "text",
+      "id": "6BE98897-62FE-4F45-A518-9FBE56088191"
+    },
+    {
+      "class": "text",
+      "id": "0514A488-D0EB-4033-A0C4-E85CE4E5A86A"
+    },
+    {
+      "class": "text",
+      "id": "F2C4308E-B57B-45BF-AD05-4F96C5AAF867"
     }
   ],
   "name": "Page 1",
